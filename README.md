@@ -69,8 +69,8 @@ Kafka 是一个消息队列，也称作事件流平台、消息系统、消息�
 
 ## 相关截图
 
-![01.jpg](image/01.jpg)
-![02.jpg](image/02.jpg)
-![03.jpg](image/03.jpg)
-![04.jpg](image/04.jpg)
-![05.jpg](image/05.jpg)
+![01.jpg](screenshot/01.jpg)
+![02.jpg](screenshot/02.jpg)
+![03.jpg](screenshot/03.jpg)
+![04.jpg](screenshot/04.jpg)
+![05.jpg](screenshot/05.jpg)
